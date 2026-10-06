@@ -2,7 +2,7 @@
 Analyse par matière - un onglet par examen
 Lancement : streamlit run Analyse_matiere.py
 
-Rappel : les notes de matière sont analysées sur 20 (non pondérées). La pondération par
+Rappel : les notes de matière sont v v   analysées sur 20 (non pondérées). La pondération par
 les coefficients ne s'applique qu'à la moyenne individuelle du candidat (cf. utils.py).
 """
 import numpy as np
